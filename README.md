@@ -69,8 +69,8 @@ A modern and feature-rich weather application built with Flutter that provides r
 - Weather API key
 - Google Maps API key
 
-## 📸 Screenshots
-[Add your app screenshots here]
+## 📸 Figma Screens Link 
+https://www.figma.com/design/9TrlHizseBro8ercBjTUmZ/Flutter-Weather-App?node-id=0-1&p=f&t=cXFzwJCvurqhmgyT-0
 
 ## 🤝 Contributing
 
@@ -82,7 +82,7 @@ This project is licensed under the [LICENSE] - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
-- Weather data provided by [Your Weather API Provider]
+- Weather data provided by [https://openweathermap.org/]
 - Icons and animations from various open-source contributors
 - Flutter and Firebase teams for their amazing frameworks
 
