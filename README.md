@@ -72,6 +72,10 @@ A modern and feature-rich weather application built with Flutter that provides r
 ## 📸 Figma Screens Link 
 https://www.figma.com/design/9TrlHizseBro8ercBjTUmZ/Flutter-Weather-App?node-id=0-1&p=f&t=cXFzwJCvurqhmgyT-0
 
+## 📸 CV LINK 
+https://europa.eu/europass/eportfolio/screen/share/cc1c42a8-83f4-437c-bd6e-1ffb6e4072a8?lang=en 
+
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
